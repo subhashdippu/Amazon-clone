@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dippu/static/css/main.2131298c.css",
+    "main.js": "/Dippu/static/js/main.96a4b6ac.js",
+    "static/js/787.c075ba41.chunk.js": "/Dippu/static/js/787.c075ba41.chunk.js",
+    "index.html": "/Dippu/index.html",
+    "main.2131298c.css.map": "/Dippu/static/css/main.2131298c.css.map",
+    "main.96a4b6ac.js.map": "/Dippu/static/js/main.96a4b6ac.js.map",
+    "787.c075ba41.chunk.js.map": "/Dippu/static/js/787.c075ba41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2131298c.css",
+    "static/js/main.96a4b6ac.js"
+  ]
+}
